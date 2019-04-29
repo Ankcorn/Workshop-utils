@@ -1,0 +1,13 @@
+{
+  "name": "cityjs-workshop-utils",
+  "version": "1.0.0",
+  "description": "AI Helper functions to make you a pro at tic-tac-toe",
+  "main": "src/index.js",
+  "repository": "https://github.com/lnug/CityJS-Workshop-utils.git",
+  "author": "Hew & Tom",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "jest": "^24.7.1"
+  }
+}
