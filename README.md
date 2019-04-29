@@ -36,7 +36,7 @@ const nextMove = minMax(input);
 
 console.log(nextMove);
 
-// The output is -> 4
+// The output is -> 4 (hopefully)
 
 ```
 

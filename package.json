@@ -9,5 +9,12 @@
   "private": false,
   "devDependencies": {
     "jest": "^24.7.1"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "scripts": {
+    "test": "NODE_ENV=test jest",
+    "dev": "backpack"
   }
 }
