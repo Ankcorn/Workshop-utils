@@ -2,7 +2,7 @@
 
 This repo contains 3 Utility functions designed to be used during []() CityJS Workshop. Each function takes a board state and suggests the next move in tic-tac-toe. They are all pretty effective but not perfect. Contributions to this Repo are welcome.
 
-The appraches are
+The approaches are
 
 * MinMax
 * Logic
